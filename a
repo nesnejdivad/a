@@ -2,5 +2,6 @@
   "name": "BEACON3000",
   "description": "Chicago based family-run pool — a symbol of Freedom to Transact.",
   "ticker": "BEACN",
-  "homepage": "https://x.com/beacon3000"
+  "homepage": "https://x.com/beacon3000",
+  "verification": "87b41f91c5e5f854aa"
 }
